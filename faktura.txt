@@ -1,0 +1,12 @@
+FAKTURA
+maelk antal: 20 pris: 210.0
+rabat: -8.925
+smoer antal: 7 pris: 110.25
+rabat: -15.75
+franskbroed antal: 12 pris: 300.0
+rabat: -21.25
+rugbroed antal: 8 pris: 142.0
+rabat: -17.75
+yoghurt antal: 18 pris: 220.5
+rabat: -10.4125
+Samlet pris: 873.175
